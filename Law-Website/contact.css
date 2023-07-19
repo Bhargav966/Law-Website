@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+}
+
+/* navbar design starts here */
+.navbar{
+    background-color: #58614E;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+}
+.nav-link{
+    color: white;
+    margin-left: 20px;
+    font-size: 14px;
+    margin-right:40px;
+}
+.logo-div{
+    margin-left: 220px;
+}
+/* navbar design ends here */
+/* header starts here */
+.main-header{
+    display: flex;
+    background-color: #E2E2E2;
+    height: 1070px;
+}
+.header2{
+    border-left: 1px solid red;
+    margin-left: 20px;
+    height: 1020px;
+    margin-top: 10px;
+}
+.heading1{
+    margin-left: 250px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid red;
+    width: 360px;
+}
+.image1{
+    height: 20px;
+    width: 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.heading2{
+    position: absolute;
+    left: 293px;
+    top: 253px;
+}
+.para1{
+    text-align: justify;
+    width: 270px;
+    margin-left: 297px;
+    line-height: 25px;
+    margin-top: 5px;
+}
+.image2{
+    height: 30px;
+    width: 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.para2{
+    position: absolute;
+    left: 297px;
+    top: 373px;
+}
+.image3{
+    height: 30px;
+    width: 25px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.para3{
+    position: absolute;
+    left: 297px;
+    top: 443px;
+}
+.image4{
+    height: 20px;
+    width: 20px;
+    margin-left: 250px;
+    margin-top: 32px;
+}
+.para4{
+    position: absolute;
+    left: 297px;
+    top: 503px;
+}
+.header2 h1{
+    margin-left: 40px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.header2 p{
+    width: 630px;
+    margin-left: 64px;
+    line-height: 25px;
+}
+.label1{
+    margin-left: 64px;
+}
+.input1{
+    margin-left: 64px;
+    margin-top: 5px;
+    width: 620px;
+    height: 23px;
+}
+.textarea1{
+    margin-left: 64px;
+    margin-top: 5px;
+    width: 620px;
+}
+.btn{
+    background-color: #5f5f5f;
+    color: white;
+    padding: 10px;
+    width: 230px;
+    margin-left: 64px;
+}
+.btn:hover{
+    background-color: black;
+}
+.anchor{
+    color: black;
+}
+/* header ends here */
+/* footer starts */
+.footer-inner-one{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+    background-color: #D9D9D9;
+    box-shadow: 0px 0px 10px black;
+}
+.a{
+    width: 300px;
+    padding: 20px;
+    line-height: 25px;
+    border-right: 1px dotted grey;
+}
+.mail-btn{
+    background-color: grey;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-top: 30px;
+    display: block;
+    width: 220px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;  
+}
+.footer-inner-two{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #4F5843;
+    height: 10px;
+    padding: 20px;
+}
+.socialmedia-icons img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+/* footer ends */
